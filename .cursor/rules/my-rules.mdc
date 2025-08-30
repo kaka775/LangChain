@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+codebase:
+    -python
+    -lanchain
+    -jupyter_notebook
+    -markdown
+
