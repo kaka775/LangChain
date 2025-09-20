@@ -1,6 +1,6 @@
 ---
-alwaysApply: true
---- 
+alwaysApply: false
+---
 codebase:
     -python
     -lanchain
