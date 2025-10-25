@@ -3,3 +3,6 @@ langchain-openai
 langchain-anthropic
 langchain-ollama
 python-dotenv
+gradio>=4.0.0
+langchain
+langchain-community
