@@ -22,5 +22,6 @@ dependencies = [
     "onnxruntime>=1.16.0<1.23.0",
     "chromadb>=1.2.1",
     "langchain-chroma>=0.2.6",
+    "sentence-transformers",
 ]
 
